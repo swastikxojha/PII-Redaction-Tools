@@ -1,0 +1,31 @@
+{
+  "leak_count": 0,
+  "leaks": [],
+  "sensitive_media_changes": [
+    {
+      "media": "word/media/image4.png",
+      "changed": true
+    },
+    {
+      "media": "word/media/image5.png",
+      "changed": true
+    }
+  ],
+  "structure_preserved": true,
+  "source_stats": {
+    "paragraphs": 1006,
+    "tables": 76,
+    "sections": 85,
+    "headers": 85,
+    "footers": 85,
+    "images": 8
+  },
+  "output_stats": {
+    "paragraphs": 1006,
+    "tables": 76,
+    "sections": 85,
+    "headers": 85,
+    "footers": 85,
+    "images": 8
+  }
+}

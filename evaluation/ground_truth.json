@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rhp_front_contact",
+    "text": "Contact Person: Sarthak Malvadkar, Company Secretary and Compliance Officer; Telephone: + 91 20 4505 3237; E-mail: cs.connect@kshinternational.com",
+    "entities": [
+      {
+        "type": "PERSON",
+        "value": "Sarthak Malvadkar",
+        "start": 16,
+        "end": 33
+      },
+      {
+        "type": "PHONE",
+        "value": "+ 91 20 4505 3237",
+        "start": 88,
+        "end": 105
+      },
+      {
+        "type": "EMAIL",
+        "value": "cs.connect@kshinternational.com",
+        "start": 115,
+        "end": 146
+      }
+    ]
+  },
+  {
+    "id": "rhp_manager",
+    "text": "Nuvama Wealth Management Limited, Contact Person: Lokesh Shah/ Soumavo Sarkar, Email: ksh.ipo@nuvama.com, Telephone: +91 22 40094400",
+    "entities": [
+      {
+        "type": "COMPANY",
+        "value": "Nuvama Wealth Management Limited",
+        "start": 0,
+        "end": 32
+      },
+      {
+        "type": "PERSON",
+        "value": "Lokesh Shah",
+        "start": 50,
+        "end": 61
+      },
+      {
+        "type": "PERSON",
+        "value": "Soumavo Sarkar",
+        "start": 63,
+        "end": 77
+      },
+      {
+        "type": "EMAIL",
+        "value": "ksh.ipo@nuvama.com",
+        "start": 86,
+        "end": 104
+      },
+      {
+        "type": "PHONE",
+        "value": "+91 22 40094400",
+        "start": 117,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "id": "rhp_registered_office",
+    "text": "Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune \u2013 410 501, Maharashtra, India",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "value": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune \u2013 410 501, Maharashtra, India",
+        "start": 19,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "id": "synthetic_structured",
+    "text": "Name: John Smith | Email: john.smith@example.com | Phone: +91 9876543210 | SSN: 123-45-6789 | Credit Card: 4111 1111 1111 1111 | DOB: 01/02/2000 | IP: 192.168.1.10 | Company: Example Technologies Private Limited | Address: 123 Main Street, Denver, CO 80202",
+    "entities": [
+      {
+        "type": "PERSON",
+        "value": "John Smith",
+        "start": 6,
+        "end": 16
+      },
+      {
+        "type": "EMAIL",
+        "value": "john.smith@example.com",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "type": "PHONE",
+        "value": "+91 9876543210",
+        "start": 58,
+        "end": 72
+      },
+      {
+        "type": "SSN",
+        "value": "123-45-6789",
+        "start": 80,
+        "end": 91
+      },
+      {
+        "type": "CREDIT_CARD",
+        "value": "4111 1111 1111 1111",
+        "start": 107,
+        "end": 126
+      },
+      {
+        "type": "DOB",
+        "value": "01/02/2000",
+        "start": 134,
+        "end": 144
+      },
+      {
+        "type": "IP_ADDRESS",
+        "value": "192.168.1.10",
+        "start": 151,
+        "end": 163
+      },
+      {
+        "type": "COMPANY",
+        "value": "Example Technologies Private Limited",
+        "start": 175,
+        "end": 211
+      },
+      {
+        "type": "ADDRESS",
+        "value": "123 Main Street, Denver, CO 80202",
+        "start": 223,
+        "end": 256
+      }
+    ]
+  },
+  {
+    "id": "synthetic_indian_ids",
+    "text": "PAN: ABCDE1234F | Aadhaar: 1234 5678 9012 | Passport: A1234567 | IFSC: HDFC0001234 | Bank account: 123456789012 | UPI: john@example | GSTIN: 27ABCDE1234F1Z5",
+    "entities": [
+      {
+        "type": "PAN",
+        "value": "ABCDE1234F",
+        "start": 5,
+        "end": 15
+      },
+      {
+        "type": "AADHAAR",
+        "value": "1234 5678 9012",
+        "start": 27,
+        "end": 41
+      },
+      {
+        "type": "PASSPORT",
+        "value": "A1234567",
+        "start": 54,
+        "end": 62
+      },
+      {
+        "type": "IFSC",
+        "value": "HDFC0001234",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "type": "BANK_ACCOUNT",
+        "value": "123456789012",
+        "start": 99,
+        "end": 111
+      },
+      {
+        "type": "UPI",
+        "value": "john@example",
+        "start": 119,
+        "end": 131
+      },
+      {
+        "type": "GSTIN",
+        "value": "27ABCDE1234F1Z5",
+        "start": 141,
+        "end": 156
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "paragraphs": 1006,
+  "tables": 76,
+  "table_cells": 3722,
+  "headers": 85,
+  "footers": 85,
+  "embedded_images": 8,
+  "ocr_images": 8,
+  "redacted_images": 2,
+  "entity_counts": {
+    "COMPANY": 323,
+    "ADDRESS": 44,
+    "PERSON": 465,
+    "PHONE": 49,
+    "EMAIL": 70
+  },
+  "elapsed_seconds": 8.981057381000028
+}

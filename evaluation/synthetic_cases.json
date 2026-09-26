@@ -1,0 +1,4 @@
+[
+  {"id":"synthetic_structured","text":"Name: John Smith | Email: john.smith@example.com | Phone: +91 9876543210 | SSN: 123-45-6789 | Credit Card: 4111 1111 1111 1111 | DOB: 01/02/2000 | IP: 192.168.1.10 | Company: Example Technologies Private Limited | Address: 123 Main Street, Denver, CO 80202"},
+  {"id":"synthetic_indian_ids","text":"PAN: ABCDE1234F | Aadhaar: 1234 5678 9012 | Passport: A1234567 | IFSC: HDFC0001234 | Bank account: 123456789012 | UPI: john@example | GSTIN: 27ABCDE1234F1Z5"}
+]
